@@ -1,3 +1,5 @@
+![Proxima Forsan](assets/ProximaForsanCover1.png)
+
 Questo documento è un manuale d’ambientazione fan-made per Savage Worlds Adventure Edition (SWADE)
 ed è pensato come un (possibile) sviluppo temporale dell’ambientazione ufficiale *Ultima Forsan*, scritta da
 Mauro Longo e Giuseppe Rotondo, e prodotta da GG Studio. Incoraggiamo fortemente i lettori a conoscere e
